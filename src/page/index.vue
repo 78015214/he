@@ -2,7 +2,7 @@
     <div class="shortcut">
         <div class="Stripe">
             <ul class="City">
-                <li class="ho_ver">
+                <li class="ho_ver base-li">
                     <a class="ditu" href="#">
                         <i class="tu_biao iconfont iconditu-dibiao"></i>
                         <span class="ui-areamini-text">广东</span>
@@ -33,7 +33,7 @@
             </ul>
             <ul class="fr">
                 <li>
-                    <a target="_blank">你好, 请登录</a>
+                    <a class="dl" target="_blank">你好, 请登录</a>
                     <a class="link-recgit color cover" target="_blank">免费注册</a>
                 </li>
                 <li class="Vertical"></li>
@@ -43,10 +43,18 @@
                     </div>
                 </li>
                 <li class="Vertical"></li>
-                <li>
-                    <div>
+                <li class="base-li hd">
+                    <div class="re_f">
                         <a hretarget="_blank">我的京东</a>
                         <i class="size iconfont iconxiala1"></i>
+                    </div>
+                    <div class="jd">
+                        <div class="wd"><a href="">待处理订单</a></div>
+                        <div class="wd"><a href="">消息</a></div>
+                        <div class="wd"><a href="">返回退换货</a></div>
+                        <div class="wd"><a href="">我的问答</a></div>
+                        <div class="wd"><a href="">商品降价</a></div>
+                        <div class="wd"><a href="">我的关注</a></div>
                     </div>
                 </li>
                 <li class="Vertical hy"></li>
@@ -102,21 +110,9 @@
         height: 31px;
         margin: 0 auto;
     }
-
-    .ho_ver {
-        padding: 0px 8px;
-        border-left: 1px solid rgba(204, 204, 204, 0);
-        border-right: 1px solid rgba(204, 204, 204, 0);
+    .base-li{
+        z-index: 22;
         position: relative;
-        z-index:22;
-    }
-
-    .ho_ver:hover {
-        background-color: #fff;
-        border-color: rgba(204, 204, 204, 1);
-        z-index:22;
-        position: relative;
-        z-index: 11;
     }
 
     .ho_ver:hover .dd {
@@ -124,8 +120,31 @@
     }
 
     .ditu {
+        display: block;
+        height: 31px;
+        padding: 0px 8px;
+        border-left: 1px solid rgba(204, 204, 204, 0);
+        border-right: 1px solid rgba(204, 204, 204, 0);
+        position: relative;
+        z-index: 22;
         text-decoration: none;
+    }
 
+    .ho_ver:hover .ditu {
+        display: block;
+        border-color: rgba(204, 204, 204, 1);
+        background-color: #fff;
+    }
+
+    .dd {
+        width: 300px;
+        padding: 10px;
+        background-color: #fff;
+        position: absolute;
+        top: 30px;
+        border: 1px solid #ccc;
+        display: none;
+        /*clear: both;*/
     }
 
     .shortcut {
@@ -151,6 +170,11 @@
         color: #f10215;
         position: relative;
         top: 0px;
+    }
+
+    .dl:hover{
+        color: #f10215;
+        cursor: pointer;
     }
 
     .link-recgit {
@@ -201,20 +225,6 @@
     }
 
     /*hover值*/
-
-    .dd {
-        width: 300px;
-        padding: 10px;
-        background-color: #fff;
-        position: absolute;
-        top: 31px;
-        left: -1px;
-        border: 1px solid #ccc;
-        display: none;
-        /*clear: both;*/
-
-    }
-
     .reg_ion {
         float: left;
         width: 60px;
@@ -243,5 +253,50 @@
         cursor: pointer;
     }
 
+    .jd{
+        float: left;
+        width: 282px;
+        border: 1px solid #ccc;
+        position: absolute;
+        top: 31px;
+        left: -5px;
+        display: none;
+    }
 
+    .wd{
+        float: left;
+        /*width: 126px;*/
+        box-sizing: border-box;
+        width:50%;
+        text-align: left;
+        padding-left:20px;
+        /*margin-left: 30px;*/
+    }
+
+    .wd a{
+        text-decoration: none;
+        color: #7c7676;
+        display: block;
+    }
+    .re_f{
+        height: 32px;
+        border-left: 1px solid rgba(204, 204, 204, 0);
+        border-right: 1px solid rgba(204, 204, 204, 0);
+        position: relative;
+        left: -5px;
+        /*background-color: #fff;*/
+        z-index: 22;
+    }
+    .re_f a {
+        padding-left: 5px;
+    }
+    .hd:hover .re_f {
+        border-color: rgba(204, 204, 204, 1);
+        /*padding: 0 8px;*/
+        background-color: #fff;
+        cursor: pointer;
+    }
+    .hd:hover .jd{
+        display: block;
+    }
 </style>
