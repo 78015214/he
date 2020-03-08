@@ -173,8 +173,8 @@
                 </div>
             </div>
         </div>
-        <div class="fs">
-            <div class="grid_c1 fs_inner">
+        <div class="fs ">
+            <div class="grid_c1 fs_inner box2">
                 <div class="fs_col1">
                     <div id="J_cate" class="cate J_cate cate18">
                         <ul class="JS_navCtn cate_menu">
@@ -495,8 +495,8 @@
                 </div>
             </div>
             <div class="J_spec">
-                <div id="J_spec" class="core1 jd_container floor">
-                    <div class="grid_c1 core1_inner">
+                <div id="J_spec1" class="core1 jd_container floor">
+                    <div class="grid_c1 core1_inner box2">
                         <div id="J_special_offer" class="box special_offer grid_c2">
                             <div class="box_hd">
                                 <a class="box_hd_lk" href="">
@@ -504,14 +504,226 @@
                                     <i class="box_hd_arrow"></i>
                                 </a>
                             </div>
-                            <div class="box_bd"></div>
+                            <div class="box_bd">
+                                <div class="special_inner">
+                                    <div class="tab special_tab">
+                                        <div class="tab_head">
+                                            <div class="tab_head_item active"><a class="special_tab_lk" href="">精选</a></div>
+                                            <div class="tab_head_item"><a class="special_tab_lk" href="">精选</a></div>
+                                            <div class="tab_head_item"><a class="special_tab_lk" href="">精选</a></div>
+                                            <div class="tab_head_item"><a class="special_tab_lk" href="">精选</a></div>
+                                            <div class="tab_head_item"><a class="special_tab_lk" href="">精选</a></div>
+                                        </div>
+                                        <div class="tab_body">
+                                            <div class="tab_body_item">
+                                                <div class="special_list">
+                                                    <div class="special_item special_item_0">
+                                                        <a class="special_item_lk" href="" aria-label="延时喷剂，不麻木姿势多 特价89 原价148">
+                                                            <div class="lazyimg lazyimg_loaded special_item_img">
+                                                                <img src="../assets/imgs/q70.jpg" alt="" class="lazyimg_img">
+                                                            </div>
+                                                            <div class="special_item_lowestFirst">189天最低价</div>
+                                                            <div class="special_item_message">
+                                                                <span class="special_item_name">延时喷剂，不麻木姿势多</span>
+                                                                <div class="special_item_price">
+                                                                    <span class="special_item_miaoShaPrice">
+                                                                        <span class="dollar_txt">￥</span>80
+                                                                    </span>
+                                                                    <span class="special_item_jdPrice">
+                                                                        <sapn class="dollar_txt">￥</sapn>148
+                                                                    </span>
+                                                                </div>
+                                                                <span class="special_item_soldMsg">热卖中</span>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class="special_item special_item_1">
+                                                        <a class="special_item_lk" href="">
+                                                            <div class="lazyimg lazyimg_loaded special_item_img">
+                                                                <img class="lazyimg_img" src="../assets/imgs/g1q70.jpg" alt="">
+                                                            </div>
+                                                            <span class="special_item_lowest">176天最低价</span>
+                                                            <div class="special_item_message">
+                                                                <span class="special_item_name">荣耀畅玩8A  极光蓝3G+32G
+                                                                </span>
+                                                                <div class="special_item_price">
+                                                                    <span class="special_item_miaoShaPrice">
+                                                                        <span class="dollar_txt">￥</span>699
+                                                                    </span>
+                                                                    <span class="special_item_jdPrice"><span class="dollar_txt">￥</span>1199</span>
+                                                                </div>
+                                                                <span class="special_item_soldMsg">热卖中
+                                                                </span>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class="special_item special_item_2">
+                                                        <a class="special_item_lk" href="">
+                                                            <div class="lazyimg lazyimg_loaded special_item_img">
+                                                                <img class="lazyimg_img" src="../assets/imgs/g1q70.jpg" alt="">
+                                                            </div>
+                                                            <span class="special_item_lowest">176天最低价</span>
+                                                            <div class="special_item_message">
+                                                                <span class="special_item_name">荣耀畅玩8A  极光蓝3G+32G
+                                                                </span>
+                                                                <div class="special_item_price">
+                                                                    <span class="special_item_miaoShaPrice">
+                                                                        <span class="dollar_txt">￥</span>699
+                                                                    </span>
+                                                                    <span class="special_item_jdPrice"><span class="dollar_txt">￥</span>1199</span>
+                                                                </div>
+                                                                <span class="special_item_soldMsg">热卖中
+                                                                </span>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class="special_item special_item_3">
+                                                        <a class="special_item_lk" href="">
+                                                            <div class="lazyimg lazyimg_loaded special_item_img">
+                                                                <img class="lazyimg_img" src="../assets/imgs/g1q70.jpg" alt="">
+                                                            </div>
+                                                            <span class="special_item_lowest">176天最低价</span>
+                                                            <div class="special_item_message">
+                                                                <span class="special_item_name">荣耀畅玩8A  极光蓝3G+32G
+                                                                </span>
+                                                                <div class="special_item_price">
+                                                                    <span class="special_item_miaoShaPrice">
+                                                                        <span class="dollar_txt">￥</span>699
+                                                                    </span>
+                                                                    <span class="special_item_jdPrice"><span class="dollar_txt">￥</span>1199</span>
+                                                                </div>
+                                                                <span class="special_item_soldMsg">热卖中
+                                                                </span>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class="special_item special_item_4">
+                                                        <a class="special_item_lk" href="">
+                                                            <div class="lazyimg lazyimg_loaded special_item_img">
+                                                                <img class="lazyimg_img" src="../assets/imgs/g1q70.jpg" alt="">
+                                                            </div>
+                                                            <span class="special_item_lowest">176天最低价</span>
+                                                            <div class="special_item_message">
+                                                                <span class="special_item_name">荣耀畅玩8A  极光蓝3G+32G
+                                                                </span>
+                                                                <div class="special_item_price">
+                                                                    <span class="special_item_miaoShaPrice">
+                                                                        <span class="dollar_txt">￥</span>699
+                                                                    </span>
+                                                                    <span class="special_item_jdPrice"><span class="dollar_txt">￥</span>1199</span>
+                                                                </div>
+                                                                <span class="special_item_soldMsg">热卖中
+                                                                </span>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div id="J_lightning_buy" class="box lightning-buy grid_c2 box_last">
+                            <div class="box_hd">
+                                <a class="box_hd_lk" href="">
+                                    <h3 class="box_tit">品牌闪购</h3>
+                                    <i class="box_hd_arrow"></i>
+                                </a>
+                            </div>
+                            <div class="box_bd">
+                                <div class="lightning-buy__container">
+                                    <a class="goods-core goods-core__1" href="">
+                                        <img class="core-logo" src="../assets/imgs/beef.png" alt="">
+                                        <h6 class="core-name">三星手机专场</h6>
+                                        <div class="core-desc">
+                                            <span class="core-desc__promo">全场最高直降5889元</span>
+                                            <span class="core-desc__extra">
+                                                <span class="extra-text">仅剩</span>
+                                                <div class="extra-day">
+                                                    <span>2</span>
+                                                    天
+                                                </div>
+                                            </span>
+
+                                        </div>
+
+                                        <img class="core-goods" src="../assets/imgs/ac.jpg" alt=""/>
+
+
+                                    </a>
+                                    <div class="goods-others">
+                                        <a class="other-item" href="">
+                                            <div class="other-item__logo">
+                                                <img src="../assets/imgs/f339d0.png" alt="">
+                                            </div>
+                                            <h6 class="other-item__name">品牌钟表闪购专场</h6>
+                                        </a>
+                                        <a class="other-item" href="">
+                                            <div class="other-item__logo">
+                                                <img src="../assets/imgs/f339d0.png" alt="">
+                                            </div>
+                                            <h6 class="other-item__name">品牌钟表闪购专场</h6>
+                                        </a>
+                                        <a class="other-item" href="">
+                                            <div class="other-item__logo">
+                                                <img src="../assets/imgs/f339d0.png" alt="">
+                                            </div>
+                                            <h6 class="other-item__name">品牌钟表闪购专场</h6>
+                                        </a>
+                                        <a class="other-item" href="">
+                                            <div class="other-item__logo">
+                                                <img src="../assets/imgs/f339d0.png" alt="">
+                                            </div>
+                                            <h6 class="other-item__name">品牌钟表闪购专场</h6>
+                                        </a>
+                                        <a class="other-item" href="">
+                                            <div class="other-item__logo">
+                                                <img src="../assets/imgs/f339d0.png" alt="">
+                                            </div>
+                                            <h6 class="other-item__name">品牌钟表闪购专场</h6>
+                                        </a>
+                                        <a class="other-item" href="">
+                                            <div class="other-item__logo">
+                                                <img src="../assets/imgs/f339d0.png" alt="">
+                                            </div>
+                                            <h6 class="other-item__name">品牌钟表闪购专场</h6>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+
 
                         </div>
                     </div>
 
                 </div>
+                <div id="J_niceGoods">
+                    <div class="jd_container nice-goods">
+                        <a class="nice-goods__logo nice-goods__logo--bg-2" href="">
+                            <div class="logo-container">
+                                <div class="logo-text">探索新生活
+                                    <i></i>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="nice-goods__recommends"></div>
+                    </div>
+
+                </div>
             </div>
         </div>
+<!--        <div>-->
+<!--            <img class="hgft" src="../assets/imgs/acf.png" alt="" style="margin: 0 auto; display: inline-block; width: 100%;">-->
+<!--            <span >gklsdml</span>-->
+<!--        </div>-->
+
     </div>
 </template>
 
