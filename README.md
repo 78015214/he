@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # forum
 
 ## Project setup
